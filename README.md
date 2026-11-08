@@ -72,7 +72,3 @@ No real customer information, private business records, or third-party confident
 ## Project Ownership
 
 This is an independent personal project currently being planned and developed as a portfolio and learning initiative.
-
-## License
-
-All rights reserved. No permission to copy, redistribute, or commercially use the source code is granted unless explicitly authorized by the project owner.
